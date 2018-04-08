@@ -1,0 +1,22 @@
+{
+  "name": "sample4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghub-sizu/Sample4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghub-sizu/Sample4/issues"
+  },
+  "homepage": "https://github.com/ghub-sizu/Sample4#readme",
+  "dependencies": {
+    "mocha": "^5.0.5"
+  }
+}
